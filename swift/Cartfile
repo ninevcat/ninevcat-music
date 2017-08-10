@@ -1,0 +1,4 @@
+github "gavinbunney/Toucan" 
+github "Alamofire/Alamofire" ~> 4.4
+github "SwiftyJSON/SwiftyJSON"
+github "onevcat/Kingfisher"
